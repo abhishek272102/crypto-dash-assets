@@ -1,7 +1,7 @@
 <script>
 (() => {
   "use strict";
-
+console.log("✅ Custom JS loaded and DOM is ready");
   /* =====================================================
      CONFIGURATION & CONSTANTS
   ====================================================== */
