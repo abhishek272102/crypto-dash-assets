@@ -1,7 +1,6 @@
 
 (() => {
   "use strict";
-console.log("✅ Custom JS loaded and DOM is ready");
   /* =====================================================
      CONFIGURATION & CONSTANTS
   ====================================================== */
@@ -976,5 +975,5 @@ const LayoutSwitch = (() => {
 
     //AutoRefresh.set(refreshInterval);
   });
-
+console.log("✅ Custom JS loaded and DOM is ready");
 })();
